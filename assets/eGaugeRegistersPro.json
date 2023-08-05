@@ -1,0 +1,324 @@
+{
+        "registers": {
+            
+            "timestamp": {
+                "register": 30000,
+				"type":"uint32"
+            },
+
+            "l1": {
+                "register": 30500,
+				"type": "float32"
+            },
+
+            "l2": {
+                "register": 30502,
+                "type": "float32"
+            },
+
+            "l3": {
+                "register": 30504,
+                "type": "float32"
+            },
+
+            "ct1": {
+                "register": 32000,
+                "type": "float32"
+            },
+
+            "ct2": {
+                "register": 32002,
+                "type": "float32"
+            },
+
+            "ct3": {
+                "register": 32004,
+                "type": "float32"
+            },
+
+            "ct4": {
+                "register": 32006,
+                "type": "float32"
+            },
+
+            "ct5": {
+                "register": 32008,
+                "type": "float32"
+            },
+
+            "ct6": {
+                "register": 32010,
+                "type": "float32"
+            },
+
+            "ct7": {
+                "register": 32012,
+                "type": "float32"
+            },
+
+            "ct8": {
+                "register": 32014,
+                "type": "float32"
+            },
+
+            "ct9": {
+                "register": 32016,
+                "type": "float32"
+            },
+
+            "ct10": {
+                "register": 32018,
+                "type": "float32"
+            },
+
+            "ct11": {
+                "register": 32020,
+                "type": "float32"
+            },
+
+            "ct12": {
+                "register": 32022,
+                "type": "float32"
+            },
+
+            "ct13": {
+                "register": 32024,
+                "type": "float32"
+            },
+
+            "ct14": {
+                "register": 32026,
+                "type": "float32"
+            },
+
+            "ct15": {
+                "register": 32028,
+                "type": "float32"
+            },
+
+            "ct16": {
+                "register": 32030,
+                "type": "float32"
+            },
+
+            "ct17": {
+                "register": 32032,
+                "type": "float32"
+            },
+
+            "ct18": {
+                "register": 32034,
+                "type": "float32"
+            },
+
+            "ct19": {
+                "register": 32036,
+                "type": "float32"
+            },
+
+            "ct20": {
+                "register": 32038,
+                "type": "float32"
+            },
+
+            "ct21": {
+                "register": 32040,
+                "type": "float32"
+            },
+
+            "ct22": {
+                "register": 32042,
+                "type": "float32"
+            },
+
+            "ct23": {
+                "register": 32044,
+                "type": "float32"
+            },
+
+            "ct24": {
+                "register": 32046,
+                "type": "float32"
+            },
+
+            "ct25": {
+                "register": 32048,
+                "type": "float32"
+            },
+
+            "ct26": {
+                "register": 32050,
+                "type": "float32"
+            },
+
+            "ct27": {
+                "register": 32052,
+                "type": "float32"
+            },
+
+            "ct28": {
+                "register": 32054,
+                "type": "float32"
+            },
+
+            "ct29": {
+                "register": 32056,
+                "type": "float32"
+            },
+
+            "ct30": {
+                "register": 32058,
+                "type": "float32"
+            },
+
+            "P_l1_ct1": {
+                "register": 36070,
+                "type": "float32"
+            },
+            
+            "P_l2_ct2": {
+				"register": 36128,
+				"type":"float32"
+	    	},
+	    	
+	    	"P_l3_ct3": {
+				"register":36078,
+                "type":"float32" 
+	   		},
+	   		
+	   		"P_l1_ct4": {
+                "register": 36080,
+                "type": "float32"
+            },
+            
+            "P_l2_ct5": {
+				"register": 36082,
+				"type":"float32"
+	    	},
+	    	
+	    	"P_l3_ct6": {
+				"register":36084,
+                "type":"float32" 
+	   		},
+	   		
+	   		"P_l1_ct7": {
+                "register": 36086,
+                "type": "float32"
+            },
+            
+            "P_l2_ct8": {
+				"register": 36088,
+				"type":"float32"
+	    	},
+	    	
+	    	"P_l3_ct9": {
+				"register":36090,
+                "type":"float32" 
+	   		},
+	   		
+	   		"P_l1_ct10": {
+                "register": 36092,
+                "type": "float32"
+            },
+            
+            "P_l2_ct11": {
+				"register": 36094,
+				"type":"float32"
+	    	},
+	    	
+	    	"P_l3_ct12": {
+				"register":36096,
+                "type":"float32" 
+	   		},
+	   		
+	   		"P_l1_ct13": {
+                "register": 36098,
+                "type": "float32"
+            },
+            
+            "P_l2_ct14": {
+				"register": 36100,
+				"type":"float32"
+	    	},
+	    	
+	    	"P_l3_ct15": {
+				"register":36102,
+                "type":"float32" 
+	   		},
+	   		
+	   		"P_l1_ct16": {
+                "register": 36076,
+                "type": "float32"
+            },
+            
+            "P_l2_ct17": {
+				"register": 36104,
+				"type":"float32"
+	    	},
+	    	
+	    	"P_l3_ct18": {
+				"register":36106,
+                "type":"float32" 
+	   		},
+	   		
+	   		"P_l1_ct19": {
+                "register": 36108,
+                "type": "float32"
+            },
+            
+            "P_l2_ct20": {
+				"register": 36110,
+				"type":"float32"
+	    	},
+	    	
+	    	"P_l3_ct21": {
+				"register":36112,
+                "type":"float32" 
+	   		},
+	   		
+	   		"P_l1_ct22": {
+                "register": 36114,
+                "type": "float32"
+            },
+            
+            "P_l2_ct23": {
+				"register": 36116,
+				"type":"float32"
+	    	},
+	    	
+	    	"P_l3_ct24": {
+				"register":36118,
+                "type":"float32" 
+	   		},
+	   		
+	   		"P_l1_ct25": {
+                "register": 36074,
+                "type": "float32"
+            },
+            
+            "P_l2_ct26": {
+				"register": 36120,
+				"type":"float32"
+	    	},
+	    	
+	    	"P_l3_ct27": {
+				"register":36122,
+                "type":"float32" 
+	   		},
+	   		
+	   		"P_l1_ct28": {
+                "register": 36124,
+                "type": "float32"
+            },
+            
+            "P_l2_ct29": {
+				"register": 36072,
+				"type":"float32"
+	    	},
+	    	
+	    	"P_l3_ct30": {
+				"register":36126,
+                "type":"float32" 
+	   		}
+    }
+}

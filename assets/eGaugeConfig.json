@@ -1,0 +1,1 @@
+{"ModBus": {"port":"/dev/ttyAMA0", "method": "rtu", "timeout": 1, "baudrate": 9600, "stopbits": 1, "parity":"N","bytesize":8,  "interval": 1}, "XML":{"interval": 5, "eGaugeIP": "192.168.1.176"}, "max_error": 60, "Database":{"DB_TABLE":"egauge", "max_error_database": 60}}

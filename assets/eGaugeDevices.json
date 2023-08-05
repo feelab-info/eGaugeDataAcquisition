@@ -1,0 +1,155 @@
+{
+	"name" : "nexIK_Mae",
+	"devices" : [
+		{
+			"name" : "Total",
+			"id" : "",
+			"token" : "",
+			"route" : "https://ems.prsma.com/api/json/eGauge", 
+			"struct" : [
+				{"V" : "l1", "I" : "ct1", "P" : "P_l1_ct1"},
+				{"V" : "l2", "I" : "ct2", "P" : "P_l2_ct2"},
+				{"V" : "l3", "I" : "ct3", "P" : "P_l3_ct3"}
+			]
+		},
+		{
+			"name" : "Forno",
+			"id" : "",
+			"token" : "",
+			"route" : "https://ems.prsma.com/api/json/eGauge", 
+			"struct" : [
+				{"V" : "l1", "I" : "ct4", "P" : "P_l1_ct4"},
+				{"V" : "l2", "I" : "ct5", "P" : "P_l2_ct5"},
+				{"V" : "l3", "I" : "ct6", "P" : "P_l3_ct6"}
+			]
+		},
+		{
+			"name" : "Piso 1",
+			"id" : "",
+			"token" : "",
+			"route" : "https://ems.prsma.com/api/json/eGauge", 
+			"struct" : [
+				{"V" : "l1", "I" : "ct7", "P" : "P_l1_ct7"},
+				{"V" : "l2", "I" : "ct8", "P" : "P_l2_ct8"},
+				{"V" : "l3", "I" : "ct9", "P" : "P_l3_ct9"}
+			]
+		},
+		{
+			"name" : "Fritadeiras",
+			"id" : "",
+			"token" : "",
+			"route" : "https://ems.prsma.com/api/json/eGauge", 
+			"struct" : [
+				{"V" : "l1", "I" : "ct10", "P" : "P_l1_ct10"},
+				{"V" : "l2", "I" : "ct11", "P" : "P_l2_ct11"},
+				{"V" : "l3", "I" : "ct12", "P" : "P_l3_ct12"}
+			]
+		},
+		{
+			"name": "HVAC",
+			"id" : "",
+			"token": "",
+			"route": "https://ems.prsma.com/api/json/eGauge",
+			"struct" : [
+				{"V" : "l1", "I" : "ct13", "P" : "P_l1_ct13"},
+				{"V" : "l2", "I" : "ct14", "P" : "P_l2_ct14"},
+				{"V" : "l3", "I" : "ct15", "P" : "P_l3_ct15"}
+			]
+
+		},
+		{
+			"name" : "AC 1", 
+			"id" : "",
+			"token" : "",
+			"route" : "https://ems.prsma.com/api/json/eGauge", 
+			"struct" : [
+				{"V" : "l1", "I" : "ct16", "P" : "P_l1_ct16"},
+				{"V" : "l2", "I" : "ct17", "P" : "P_l2_ct17"},
+				{"V" : "l3", "I" : "ct18", "P" : "P_l3_ct18"}
+			]
+		},
+		{
+			"name" : "AC 2", 
+			"id" : "",
+			"token" : "",
+			"route" : "https://ems.prsma.com/api/json/eGauge", 
+			"struct" : [
+				{"V" : "l1", "I" : "ct19", "P" : "P_l1_ct19"},
+				{"V" : "l2", "I" : "ct20", "P" : "P_l2_ct20"},
+				{"V" : "l3", "I" : "ct21", "P" : "P_l3_ct21"}
+			]
+		},
+		{
+			"name" : "Maquina de Lavar Loica", 
+			"id" : "",
+			"token" : "",
+			"route" : "https://ems.prsma.com/api/json/eGauge", 
+			"struct" : [
+				{"V" : "l1", "I" : "ct22", "P" : "P_l1_ct22"},
+				{"V" : "l2", "I" : "ct23", "P" : "P_l2_ct23"},
+				{"V" : "l3", "I" : "ct24", "P" : "P_l3_ct24"}
+			]
+		},
+		{
+			"name" : "Tomadas 1",
+			"id" : "",
+			"token" : "",
+			"route" : "https://ems.prsma.com/api/json/eGauge", 
+			"struct" : [
+				{"V" : "l1", "I" : "ct25", "P" : "P_l1_ct25"}
+			]
+		},
+		{
+			"name" : "Tomadas 2",
+			"id" : "",
+			"token" : "",
+			"route" : "https://ems.prsma.com/api/json/eGauge", 
+			"struct" : [
+				{"V" : "l2", "I" : "ct26", "P" : "P_l2_ct26"}
+			]
+		},	
+		{
+			"name" : "Tomadas 3",
+			"id" : "",
+			"token" : "",
+			"route" : "https://ems.prsma.com/api/json/eGauge", 
+			"struct" : [
+				{"V" : "l3", "I" : "ct27", "P" : "P_l3_ct27"}
+			]
+		},
+		{
+			"name" : "Iluminacao 1",
+			"id" : "",
+			"token" : "",
+			"route" : "https://ems.prsma.com/api/json/eGauge", 
+			"struct" : [
+				{"V" : "l1", "I" : "ct28", "P" : "P_l1_ct28"}
+			]
+		},
+		{
+			"name" : "Iluminacao 2",
+			"id" : "",
+			"token" : "",
+			"route" : "https://ems.prsma.com/api/json/eGauge", 
+			"struct" : [
+				{"V" : "l2", "I" : "ct29", "P" : "P_l2_ct29"}
+			]
+		},
+		{
+			"name" : "Iluminacao 3",
+			"id" : "",
+			"token" : "",
+			"route" : "https://ems.prsma.com/api/json/eGauge", 
+			"struct" : [
+				{"V" : "l3", "I" : "ct30", "P" : "P_l3_ct30"}
+			]
+		}
+	],
+	"settings" : {
+		"sample_rate_Hz" : 0.016,
+		"max_upload_spl" : 1800,
+		"comment": "this would be 30 minutes of data at 1 Hz",
+		"upload_rate_min": 1,
+		"comment 2": "data should be averaged and uploaded at 1 sample per minute"
+	} 
+}
